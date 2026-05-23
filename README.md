@@ -50,6 +50,9 @@
  └── Pulumi.<stack>.yaml # Stack-specific configuration (e.g., Pulumi.dev.yaml)
  ```
 
+ ![alt text](image.png)
+
+
  ## Configuration
 
  This template defines the following config value:
@@ -90,5 +93,3 @@
  - GitHub Issues: https://github.com/pulumi/pulumi/issues
 
  Contributions and feedback are always welcome!
-
- ![alt text](image.png)
