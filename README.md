@@ -90,3 +90,5 @@
  - GitHub Issues: https://github.com/pulumi/pulumi/issues
 
  Contributions and feedback are always welcome!
+
+ ![alt text](image.png)
